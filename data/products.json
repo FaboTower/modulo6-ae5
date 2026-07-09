@@ -1,5 +1,1 @@
-[
-  { "id": 1, "nombre": "Landing Page", "precio": 99990 },
-  { "id": 2, "nombre": "Diseño UX/UI", "precio": 299990 },
-  { "id": 3, "nombre": "SEO / SEM", "precio": 199990 }
-]
+[{"id":1,"nombre":"Landing Page","precio":99990},{"id":2,"nombre":"Diseño UX/UI","precio":299990},{"id":3,"nombre":"SEO / SEM","precio":199990},{"id":4,"nombre":"Ecommerce","precio":300000,"imagen":"/uploads/1783559765870-images.jpeg"}]
